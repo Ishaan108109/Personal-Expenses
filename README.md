@@ -1,4 +1,4 @@
-# personal_experience
+# Personal Experience App
 
 A new Flutter project.
 
